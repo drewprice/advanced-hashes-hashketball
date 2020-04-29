@@ -1,0 +1,4 @@
+tasks:
+  - init: echo "Hisketball"
+image:
+  file: .gitpod.Dockerfile
